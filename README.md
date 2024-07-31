@@ -6,8 +6,8 @@
 
 <div align="center">
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/) 
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/)](https://github.com/)
+[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/antonioclp/nextjs-template) 
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/antonioclp/nextjs-template)](https://github.com/antonioclp/nextjs-template)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
@@ -25,7 +25,7 @@
 ### Usage
 
 ```bash
-git clone
+git clone git@github.com:antonioclp/nextjs-template.git
 
 cd nextjs-template
 
